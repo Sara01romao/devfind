@@ -1,5 +1,5 @@
 'use client'
-import { Header } from './_component/heander';
+import { Header } from './_component/header';
 import './globals.css';
 import { useState } from 'react';
 
